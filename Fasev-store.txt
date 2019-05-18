@@ -3,3 +3,4 @@ FAN PROJECT
 - Web diawal atau halaman login dahulu 
 - Project harus dikerjain seminggu 3x wajib 
 - Membuat forum diskusi untuk berjalan nya project
+- Buat sesimpel mungkin
